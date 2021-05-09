@@ -1,0 +1,18 @@
+label{
+	display: block;
+	margin: 5px 0;
+}
+
+form{
+	max-width: 460px;
+	margin: 20px auto;
+	padding: 20px;
+}
+
+.brand{
+	background: #cbb09c !important;
+}
+
+.brand-context{
+	color: #cbb09c !important;
+}
